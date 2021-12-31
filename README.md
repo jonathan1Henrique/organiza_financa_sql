@@ -1,2 +1,6 @@
-# organiza_financa_sql
-sql do sistema para organização de finanças 
+# Organiza finança SQL
+sql do sistema para organização de finanças
+
+Usar banco de dados postgresql
+
+# Projeto em desenvolvimento
